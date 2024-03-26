@@ -1,3 +1,3 @@
-module github.com/Dzoter/add_sum
+module github.com/wtf/add_sum
 
 go 1.18
